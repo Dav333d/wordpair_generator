@@ -1,6 +1,6 @@
-# wordpair_generator
+# Wordpair-generator
 
-A new Flutter project.
+A new Flutter project created with help from tranverse media
 
 ## Getting Started
 
